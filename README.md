@@ -29,8 +29,27 @@ $ cd src
 $ flask --app app.py run
 ```
 # Usage
-
 Go to http://127.0.0.1:5000/ to see the app running.
+
+# Examples
+
+1.1 First, copy the nft address on the website https://solanart.io/
+
+![photo1665925266](https://user-images.githubusercontent.com/96559542/196038100-eedb67e8-5422-4a16-865e-40387f778bda.jpeg)
+
+1.2 On the first page of our site, paste the copied address: first, it inserts information about nft into the database.
+
+![photo1665925217](https://user-images.githubusercontent.com/96559542/196038101-374be81e-a1e1-41ce-9c89-fcc58df76e9e.jpeg)
+
+![photo1665925351](https://user-images.githubusercontent.com/96559542/196038099-68580196-41b3-494b-850d-c4f6a908e126.jpeg)
+
+1.3 Repeat the process
+
+
+
+1.4 Now it gives information about NFT.
+
+![photo1665925393](https://user-images.githubusercontent.com/96559542/196038096-9acddb62-b88a-489b-81c5-91340a0d1067.jpeg)
 
 # LICENSE
 
